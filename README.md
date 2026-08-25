@@ -1,68 +1,69 @@
 <!-- ========================================================= -->
-<!--                       HEADER                              -->
+<!--                         HEADER                            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Merhaba,%20Ben%20Tarin%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
-    width="100%"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Hello,%20I'm%20Mr.%20Ohm%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
+  width="100%"
+/>
 
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer+%26+Indie+Builder;Web+%7C+Mobile+%7C+Desktop+Development;Flutter+%7C+C%23+%7C+Python+%7C+Node.js;Building+Useful+%26+Practical+Software;Learning%2C+Building%2C+Improving."
-      alt="Typing SVG"
-    />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer+%26+Indie+Builder;Web+%7C+Mobile+%7C+Desktop+Development;Flutter+%7C+C%23+%7C+Python+%7C+Node.js;Building+Useful+%26+Practical+Software;Learning%2C+Building%2C+Improving."
+    alt="Typing SVG"
+  />
+</a>
+
+<br />
+
+<p>
+  <a href="https://github.com/Echolyon">
+    <img src="https://img.shields.io/github/followers/Echolyon?label=Followers&style=for-the-badge&color=0ea5e9" />
   </a>
 
-  <br />
+  <a href="https://github.com/Echolyon?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-0f172a?style=for-the-badge&logo=github" />
+  </a>
 
-  <p>
-    <a href="https://github.com/[KullanıcıAdın]">
-      <img src="https://img.shields.io/github/followers/[KullanıcıAdın]?label=Followers&style=for-the-badge&color=0ea5e9" />
-    </a>
-    <a href="https://github.com/[KullanıcıAdın]?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-View-0f172a?style=for-the-badge&logo=github" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=[KullanıcıAdın]&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-  </p>
+  <img
+    src="https://komarev.com/ghpvc/?username=Echolyon&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"
+  />
+</p>
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                       ABOUT                               -->
+<!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About Me
 
-Merhaba, ben **Tarin**.
+Hello! I'm **Mr. Ohm**, a software developer and indie builder interested in
+building practical, useful and continuously evolving software.
 
-Yazılım geliştirmeyi yalnızca kod yazmak olarak değil, gerçek bir problemi
-çözebilecek **kullanılabilir ve sürdürülebilir ürünler geliştirme süreci**
-olarak görüyorum.
+I enjoy working across different areas of software development — from
+web applications and backend systems to mobile and desktop applications.
 
-Web uygulamalarından mobil uygulamalara, masaüstü yazılımlardan backend
-sistemlerine kadar farklı alanlarda projeler geliştiriyor ve her projede
-yeni teknolojiler öğrenmeye çalışıyorum.
+Rather than focusing on a single technology, I prefer learning by building
+real projects and understanding how different technologies work together.
 
-Özellikle **bireysel geliştirici olarak geliştirilebilecek, gerçek kullanım
-alanı bulunan ve zaman içerisinde büyütülebilecek projeler** üzerine
-çalışmayı seviyorum.
+### 🚀 What I'm doing
 
-### 🚀 Şu anda
-
-- 🔨 Kişisel yazılım projeleri geliştiriyorum.
-- 🌐 Modern web uygulamaları üzerine çalışıyorum.
-- 📱 Flutter ile mobil uygulamalar geliştiriyorum.
-- 🖥️ C# / WPF ve Python ile masaüstü uygulamaları geliştiriyorum.
-- ⚙️ Node.js, Express, MongoDB ve Firebase ile backend sistemleri kuruyorum.
-- 📦 Uygulamaların paketlenmesi ve dağıtım süreçlerini öğreniyorum.
-- 🏪 Microsoft Store için masaüstü uygulamalar geliştiriyorum.
-- 🦀 Rust ve Tauri ekosistemini öğreniyorum.
-- 📚 Her projeyi aynı zamanda yeni bir şey öğrenmek için kullanıyorum.
+- 🔨 Building personal software projects
+- 🌐 Developing modern web applications
+- 📱 Building mobile applications with Flutter
+- 🖥️ Developing Windows desktop applications
+- ⚙️ Working with Node.js, Express and REST APIs
+- 🗄️ Working with MongoDB and Firebase
+- 🔐 Exploring application security and data management
+- 📦 Learning software packaging and deployment
+- 🏪 Exploring application publishing for Microsoft Store
+- 🦀 Learning Rust and the Tauri ecosystem
+- 📚 Continuously improving my software development skills
 
 ---
 
@@ -70,9 +71,9 @@ alanı bulunan ve zaman içerisinde büyütülebilecek projeler** üzerine
 <!--                       TECH STACK                          -->
 <!-- ========================================================= -->
 
-## 🛠️ Teknolojiler
+## 🛠️ Tech Stack
 
-### 💻 Programlama Dilleri
+### 💻 Programming Languages
 
 <p align="left">
 
@@ -104,11 +105,11 @@ alanı bulunan ve zaman içerisinde büyütülebilecek projeler** üzerine
 
 </p>
 
-### 🗄️ Database & Backend
+### 🗄️ Backend & Databases
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 </p>
 
@@ -123,26 +124,29 @@ alanı bulunan ve zaman içerisinde büyütülebilecek projeler** üzerine
 ---
 
 <!-- ========================================================= -->
-<!--                       WHAT I BUILD                        -->
+<!--                    WHAT I BUILD                           -->
 <!-- ========================================================= -->
 
-## 🧩 Ne Tür Projeler Geliştiriyorum?
+## 🧩 What I Build
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌐 Web Applications
 
-Modern ve kullanıcı odaklı web uygulamaları.
+I build web applications with a focus on usability, structured
+architecture and practical functionality.
 
-- Frontend & backend sistemleri
-- Authentication
-- REST API
-- Yönetim panelleri
-- Form ve başvuru sistemleri
-- Veri tabanı entegrasyonları
-- Responsive arayüzler
+- Authentication systems
+- REST APIs
+- Administration panels
+- Application / form systems
+- Database integrations
+- User management
+- Data validation
+- Responsive interfaces
 
 </td>
 
@@ -150,112 +154,149 @@ Modern ve kullanıcı odaklı web uygulamaları.
 
 ### 📱 Mobile Applications
 
-Flutter kullanarak Android ve cross-platform uygulamalar.
+Cross-platform mobile applications built primarily with Flutter.
 
-- Kullanıcı arayüzleri
+- Modern UI
 - Local data
-- Cloud database
-- API entegrasyonları
-- QR / kamera özellikleri
-- APK / release build süreçleri
+- Cloud databases
+- API integrations
+- Camera & QR features
+- Application state management
+- Android release builds
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🖥️ Desktop Software
 
-Windows üzerinde çalışan bağımsız uygulamalar.
+Windows-focused applications and utilities.
 
 - C# / WPF
 - Python / PySide
 - Tauri
-- Sistem araçları
-- Güvenlik araçları
-- Yardımcı uygulamalar
+- System utilities
+- Productivity tools
+- Security experiments
 - Windows deployment
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend Systems
 
-Uygulamaların arka tarafında çalışan servisler.
+Backend services that power applications and manage data.
 
 - Node.js
 - Express
+- REST APIs
 - MongoDB
 - Firebase
-- REST API
 - Authentication
-- Database architecture
+- Data management
+- Application architecture
 
 </td>
+
 </tr>
 </table>
 
 ---
 
 <!-- ========================================================= -->
-<!--                       FEATURED PROJECTS                    -->
+<!--                    FEATURED PROJECTS                       -->
 <!-- ========================================================= -->
 
-## ⭐ Öne Çıkan Projeler
+## ⭐ Featured Projects
 
-> Buradaki projeleri zaman içerisinde gerçek GitHub repository'lerin ile
-> değiştirebilirsin.
+A selection of projects that represent my interests and development
+experience.
+
+---
 
 ### 📱 Bebek İzlencesi
 
-Flutter ile geliştirilen, günlük beslenme kayıtlarını takip etmeye
-odaklanan mobil uygulama.
+A Flutter-based mobile application designed for tracking daily feeding
+records and analyzing consumption data.
 
-**Öne çıkan özellikler:**
+**Highlights**
 
-- 📊 Günlük / haftalık / aylık istatistikler
-- 🍼 Beslenme kayıtları
-- 📈 Ortalama tüketim hesaplama
-- 💾 Veri saklama
-- ☁️ Firebase entegrasyonu
-- 📱 Android desteği
+- 🍼 Feeding record tracking
+- 📊 Daily, weekly and monthly statistics
+- 📈 Average consumption calculations
+- 💾 Data persistence
+- ☁️ Firebase integration
+- 📱 Android support
 
-**Stack:** `Flutter` `Dart` `Firebase`
+**Technology**
 
-[🔗 Repository](https://github.com/[KullanıcıAdın]/[repo-adı])
+`Flutter` `Dart` `Firebase`
+
+**Repository**
+
+> This is a private project.
 
 ---
 
 ### 🛡️ Mini Antivirus
 
-Python kullanılarak geliştirilen deneysel güvenlik uygulaması.
+An experimental desktop security application developed with Python.
 
-Proje; dosya tarama, heuristik kontroller, karantina ve whitelist gibi
-temel güvenlik mekanizmalarını öğrenmek amacıyla geliştirildi.
+The project focuses on learning fundamental concepts such as file
+scanning, heuristic analysis, quarantine management and whitelisting.
 
-**Öne çıkan özellikler:**
+**Highlights**
 
-- 🔍 Dosya tarama
-- 🧠 Heuristik analiz
-- 🗃️ Karantina sistemi
-- ✅ Whitelist yönetimi
-- 🧪 Test amaçlı EICAR desteği
-- 🖥️ Masaüstü arayüzü
+- 🔍 File scanning
+- 🧠 Heuristic analysis
+- 🗃️ Quarantine system
+- ✅ Whitelist management
+- 🧪 EICAR test support
+- 🖥️ Desktop interface
 
-**Stack:** `Python` `PySide6`
+**Technology**
 
-[🔗 Repository](https://github.com/[KullanıcıAdın]/[repo-adı])
+`Python` `PySide6`
+
+**Repository**
+
+> https://github.com/Echolyon/mini-antivirus
+
+---
+
+### 🏛️ Digital Application Systems
+
+A collection of experimental institutional-style web applications
+focused on digital application and management processes.
+
+These projects explore concepts such as:
+
+- 📝 Application forms
+- 🔎 Application tracking
+- 📊 Application status management
+- 👤 User management
+- 🛠️ Administration panels
+- 🔐 Authentication & authorization
+- 🗄️ Database architecture
+- 📡 Backend APIs
+
+**Technology**
+
+`JavaScript` `Node.js` `Express` `MongoDB` `Firebase`
 
 ---
 
 ### 🖥️ Windows Utility Projects
 
-Windows ortamı için geliştirdiğim çeşitli yardımcı masaüstü
-uygulamalarından oluşan proje koleksiyonu.
+A collection of small desktop utilities created to solve specific
+problems and explore Windows application development.
 
-Örnekler:
+Examples include:
 
 - ⚡ Auto Clicker
 - 🔐 Password Generator
@@ -264,77 +305,290 @@ uygulamalarından oluşan proje koleksiyonu.
 - 🖥️ System Viewer
 - 🛡️ Security Utilities
 
-**Stack:** `Python` `PySide6` `C#` `WPF`
+**Technology**
 
----
-
-### 🏛️ Digital Application Systems
-
-Gerçek kurumların başvuru ve yönetim süreçlerinden ilham alan,
-kurumsal web uygulamaları.
-
-Bu projelerde özellikle:
-
-- Kullanıcı yönetimi
-- Başvuru oluşturma
-- Başvuru sorgulama
-- Başvuru durumları
-- Yönetici panelleri
-- Veri tabanı mimarisi
-- Yetkilendirme
-- Form doğrulama
-
-gibi sistemleri uyguluyorum.
-
-**Stack:** `JavaScript` `Node.js` `Express` `MongoDB` `Firebase`
+`Python` `PySide6` `C#` `WPF`
 
 ---
 
 <!-- ========================================================= -->
-<!--                       CURRENTLY LEARNING                   -->
+<!--                     CURRENTLY BUILDING                     -->
 <!-- ========================================================= -->
 
-## 📚 Öğreniyorum
+## 🔨 Currently Building
 
-Teknoloji öğrenme sürecimi sadece tutorial takip ederek değil,
-**proje geliştirerek** yürütmeye çalışıyorum.
-
-| Teknoloji | Odak |
-|---|---|
-| 🦀 Rust | Sistem programlama ve performans |
-| ⚡ Tauri | Hafif cross-platform desktop uygulamalar |
-| ⚛️ React | Modern frontend geliştirme |
-| 📱 Flutter | Daha gelişmiş mobil uygulamalar |
-| 🟢 Node.js | Backend mimarileri |
-| 🗄️ MongoDB | Database design & backend |
-| 🔥 Firebase | Cloud services & application backend |
-| 🏗️ Software Architecture | Daha düzenli ve sürdürülebilir projeler |
-
----
-
-<!-- ========================================================= -->
-<!--                       DEVELOPMENT PHILOSOPHY              -->
-<!-- ========================================================= -->
-
-## 🧠 Geliştirme Yaklaşımım
+I'm constantly experimenting with new ideas and turning some of them
+into complete applications.
 
 ```text
-Problem
-   │
-   ▼
-Planlama
-   │
-   ▼
-Prototype
-   │
-   ▼
-Development
-   │
-   ▼
-Testing
-   │
-   ▼
-Improvement
-   │
-   ▼
-Release
+┌─────────────────────────────────────────────────────────────┐
+│                     CURRENT WORK                            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🌐 Web Applications                                        │
+│     Building practical web-based systems and tools.         │
+│                                                             │
+│  🖥️ Desktop Software                                        │
+│     Exploring modern Windows application development.       │
+│                                                             │
+│  📱 Mobile Applications                                     │
+│     Improving my Flutter development workflow.              │
+│                                                             │
+│  🦀 Rust & Tauri                                            │
+│     Exploring lightweight cross-platform desktop apps.      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+````
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    CURRENTLY LEARNING                     -->
+
+<!-- ========================================================= -->
+
+## 📚 Currently Learning
+
+I prefer learning technologies by applying them to real projects.
+
+| Technology                | Focus                                      |
+| ------------------------- | ------------------------------------------ |
+| 🦀 Rust                   | Systems programming & performance          |
+| ⚡ Tauri                   | Lightweight desktop applications           |
+| ⚛️ React                  | Modern frontend development                |
+| 📘 TypeScript             | Safer and scalable JavaScript development  |
+| 📱 Flutter                | Advanced cross-platform mobile development |
+| 🟢 Node.js                | Backend development                        |
+| 🗄️ MongoDB               | Database design & application architecture |
+| 🔥 Firebase               | Cloud services & application backend       |
+| 🏗️ Software Architecture | Maintainable and scalable applications     |
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    DEVELOPMENT PHILOSOPHY                  -->
+
+<!-- ========================================================= -->
+
+## 🧠 Development Philosophy
+
+For me, a project is not simply successful because it runs.
+
+A good project should be:
+
+```text
+                    ┌───────────────┐
+                    │    Problem    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   Planning    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   Prototype   │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │  Development  │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    Testing    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │  Improvement  │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    Release    │
+                    └───────────────┘
+```
+
+I try to focus on:
+
+* 🧩 Modular architecture
+* 🔒 Security
+* ⚡ Performance
+* 🎨 User experience
+* 🧹 Maintainable code
+* 📦 Deployment
+* 🔄 Long-term maintainability
+* 📚 Continuous learning
+
+> **Working software is the beginning — not the end.**
+
+---
+
+<!-- ========================================================= -->
+
+<!--                     GITHUB STATISTICS                     -->
+
+<!-- ========================================================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Echolyon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echolyon&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Echolyon&theme=tokyonight&hide_border=true"
+width="70%"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    CONTRIBUTION GRAPH                     -->
+
+<!-- ========================================================= -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Echolyon/Echolyon/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+> The contribution snake requires a GitHub Actions workflow in your
+> profile repository. If it is not configured yet, this section can be
+> temporarily removed.
+
+---
+
+<!-- ========================================================= -->
+
+<!--                         GOALS                             -->
+
+<!-- ========================================================= -->
+
+## 🎯 Goals
+
+### Short-Term
+
+* [ ] Publish more production-ready projects
+* [ ] Improve React & TypeScript skills
+* [ ] Strengthen Rust fundamentals
+* [ ] Build a complete Tauri application
+* [ ] Improve software architecture skills
+* [ ] Contribute to open-source projects
+
+### Long-Term
+
+* [ ] Build and publish independent software products
+* [ ] Publish more applications through Microsoft Store
+* [ ] Create meaningful open-source projects
+* [ ] Become highly proficient in cross-platform development
+* [ ] Build software that provides real-world value
+* [ ] Establish a strong independent developer portfolio
+
+---
+
+<!-- ========================================================= -->
+
+<!--                       OPEN SOURCE                         -->
+
+<!-- ========================================================= -->
+
+## 🌍 Open Source
+
+I believe that sharing knowledge and software helps both developers
+and the wider community.
+
+Whenever possible, I aim to make my projects available as open source
+and encourage collaboration through:
+
+* ⭐ Stars
+* 🐛 Issues
+* 💡 Feature suggestions
+* 🔧 Pull Requests
+* 💬 Discussions
+
+If you find something useful here, feel free to explore, use and
+contribute to it.
+
+---
+
+<!-- ========================================================= -->
+
+<!--                       CONTACT                             -->
+
+<!-- ========================================================= -->
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Echolyon">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+<!--a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a-->
+
+<a href="mailto:mrohm@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                       FOOTER                              -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+<br />
+
+### 💻 Build. Learn. Improve. Repeat.
+
+<br />
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=120&section=footer"
+width="100%"
+/>
+
+</div>
